@@ -1,0 +1,38 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: #D5E1EF;
+}
+.firstbox{
+    height: 498px;
+    width: 320px;
+    border-radius: 20px;
+    margin: 152px auto; 
+    background-color: #ffffff;
+}
+.qrcode{
+    width: 100%;
+    height: 328px;
+    overflow: hidden;
+    padding: 16px;
+    border-radius: 30px;
+}
+.improve{
+    padding-top: 24px;
+    color: #1F314F;
+    font-size: 22px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    text-align: center;
+}
+.scan{
+    color: #7D889E;
+    font-size: 15px;
+    text-align: center;
+    padding-right: 32px;
+    padding-left: 32px;
+    padding-bottom: 40px;
+}
